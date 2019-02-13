@@ -1,0 +1,94 @@
+{
+  "Locations": {
+    "record": [
+      {
+        "record_id": "312",
+        "record_type": "CP",
+        "short_code": "00921",
+        "short_name": "4DM",
+        "long_name": "4DM",
+        "pbv": "N"
+      },
+      {
+        "record_id": "221",
+        "record_type": "MC",
+        "short_code": "COVENT",
+        "short_name": "Coventry",
+        "long_name": "Coventry MC",
+        "pbv": "N"
+      },
+      {
+        "record_id": "222",
+        "record_type": "MC",
+        "short_code": "CREWE.",
+        "short_name": "Crewe",
+        "long_name": "Crewe MC",
+        "pbv": "N"
+      },
+      {
+        "record_id": "223",
+        "record_type": "MC",
+        "short_code": "CROYDO",
+        "short_name": "Croydon",
+        "long_name": "Croydon MC",
+        "pbv": "N"
+      },
+      {
+        "record_id": "845",
+        "record_type": "DP",
+        "short_code": "845",
+        "short_name": "WHISTL GLASGOW",
+        "long_name": "WHISTL GLASGOW",
+        "pbv": "N"
+      },
+      {
+        "record_id": "800",
+        "record_type": "DP",
+        "short_code": "800",
+        "short_name": "HEAD OFFICE",
+        "long_name": "HEAD OFFICE",
+        "pbv": "N"
+      },
+      {
+        "record_id": "18",
+        "record_type": "CP",
+        "short_code": "00282",
+        "short_name": "SR COMMUNICATION",
+        "long_name": "SR HOUSE",
+        "pbv": "N"
+      },
+      {
+        "record_id": "123",
+        "record_type": "CP",
+        "short_code": "00632",
+        "short_name": "MAILCOM",
+        "long_name": "MAILCOM",
+        "pbv": "Y"
+      },
+      {
+        "record_id": "158",
+        "record_type": "CP",
+        "short_code": "00861",
+        "short_name": "CPC",
+        "long_name": "COMBINED PRECISION COMPONENTS",
+        "pbv": "Y"
+      },
+      {
+        "record_id": "125106",
+        "record_type": "MH",
+        "short_code": "CITSOU",
+        "short_name": "CITYSPRINT",
+        "long_name": "CITYSPRINT",
+        "pbv": "N"
+      },
+      {
+        "record_id": "124326",
+        "record_type": "MH",
+        "short_code": "BIKSOU",
+        "short_name": "BIKE IT",
+        "long_name": "BIKE IT INTERNATIONAL LIMTED",
+        "pbv": "N"
+      }
+    ]
+  }
+}
